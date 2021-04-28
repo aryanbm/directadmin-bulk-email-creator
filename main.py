@@ -14,7 +14,7 @@ DA_USERNAME = "USERNAME"
 DA_PASSWORD = "PASSWORD"
 MAIL_DOMAIN = "example.com"
 QUOTA = 10
-token = ""
+token = "" # You can copy the session token from your saved cookies by logging in to your DA panel
 
 
 def find_between(s, first, last):
