@@ -1,4 +1,4 @@
-# DirectAdmin Bulk Email Creator with Python
+# DirectAdmin Bulk Email Creation with Python
 Bulk emails can be created by using the DirectAdmin admin account and password and the accounts.csv
 
 ## How to use
